@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Bashir Ibraheem Olamide </h1>
 <p align="center">
-  <a href="https://github.com/MedCoder001"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;2%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/MedCoder001"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist, ML/AI Engineer;2%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 <h3 align="center">I'm a passionate Data Scientist and AI/ML Engineer on a mission to unravel the complexities of data and transform it into meaningful insights. With a background in python and various ML/DL/AI frameworks, I thrive on exploring innovative solutions to real-world problems through the lens of artificial intelligence and machine learning. </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
