@@ -35,7 +35,7 @@ Let's turn data into decisions and ideas into impact! 🌟
  
 <h3 align="left">🌐Connect with Me:</h3>
 <p align="left">
-<a href="https://twitter.com/princehyebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boibash" height="30" width="40" /></a>
+<a href="https://twitter.com/MedCoder001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boibash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibraheem-olamide-bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraheem-olamide-bashir" height="30" width="40" /></a>
 <a href="https://instagram.com/princehyebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princehyebee" height="30" width="40" /></a>
 </p>
@@ -48,8 +48,5 @@ Let's turn data into decisions and ideas into impact! 🌟
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MedCoder001&show_icons=true&locale=en" alt="MedCoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MedCoder001&" alt="MedCoder" /></p>
-
-<!--
-**MedCoder001/MedCoder001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
